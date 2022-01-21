@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\stm32cubeu5",
+    "\\lib\\stm32cubeu5\\Drivers\\CMSIS\\Device",
+    "\\lib\\stm32cubeu5\\Drivers\\CMSIS\\Device\\ST\\STM32U5xx",
+    "\\lib\\stm32cubeu5\\Drivers\\CMSIS\\Device\\ST\\STM32U5xx\\Include",
+    "\\lib\\stm32cubeu5\\Drivers\\CMSIS\\Device\\ST\\STM32U5xx\\Source",
+    "\\lib\\stm32cubeu5\\Drivers\\CMSIS\\Device\\ST\\STM32U5xx\\Source\\Templates",
+    "\\lib\\stm32cubeu5\\stmcubemx",
+    "\\lib\\threadx"
+  ],
+  "SelectedNode": "\\app\\azure_config.h",
+  "PreviewInSolutionExplorer": false
+}

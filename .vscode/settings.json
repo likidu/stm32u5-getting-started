@@ -1,0 +1,11 @@
+{
+    "cmake.configureOnOpen": false,
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "stm32l4s5i_iot01_accelero.h": "c",
+        "stm32l4s5i_iot01.h": "c",
+        "azure_iot_nx_client.h": "c",
+        "sensor.h": "c",
+        "tx_secure_interface.h": "c"
+    }
+}
