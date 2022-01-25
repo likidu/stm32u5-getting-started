@@ -123,6 +123,7 @@ UINT dns_connect()
     return NX_SUCCESS;
 }
 
+
 UINT stm_network_init()
 {
     UINT status;

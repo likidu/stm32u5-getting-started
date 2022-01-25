@@ -60,8 +60,8 @@ int32_t mxwifi_probe(void **ll_drv_context);
 /* #define MX_WIFI_SLIP_DEBUG */
 /* #define MX_WIFI_IO_DEBUG */
 
-#define WIFI_SSID                                   "YOUR-WIFI-SSID"
-#define WIFI_PASSWORD                               "YOUR-WIFI-PASSWORD"
+#define WIFI_SSID                                   "MSFTGUEST"
+#define WIFI_PASSWORD                               ""
 
 
 #define MX_WIFI_PRODUCT_NAME                        ("MXCHIP-WIFI")
