@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app"
+    "\\app",
+    "\\lib"
   ],
+  "SelectedNode": "\\app\\board_init.c",
   "PreviewInSolutionExplorer": false
 }
