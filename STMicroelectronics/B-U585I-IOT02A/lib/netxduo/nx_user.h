@@ -47,8 +47,6 @@
 #define NX_HTTP_NO_FILEX
 #define NX_WEB_HTTP_NO_FILEX
 
-#define NX_AZURE_DISABLE_IOT_SECURITY_MODULE
-
 /* Use hardware rand */
 //extern int hardware_rand(void);
 //#define NX_RAND hardware_rand
