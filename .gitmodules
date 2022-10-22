@@ -1,0 +1,3 @@
+[submodule "shared/lib/netxduo"]
+	path = shared/lib/netxduo
+	url = https://github.com/liydu/netxduo.git
