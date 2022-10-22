@@ -33,3 +33,6 @@ add_subdirectory(${SHARED_SRC_DIR} shared_src)
 add_subdirectory(lib)
 add_subdirectory(app)
 
+target_compile_definitions(${PROJECT_NAME} PUBLIC
+    TX_SINGLE_MODE_SECURE
+)
